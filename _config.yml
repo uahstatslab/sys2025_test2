@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: sys2025 Conference at UAH
 
 # Your name to show in the footer
-author: Some Person
+author: Kishan Yerubandi, Webmaster | UAH Stats Lab
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Hotel: "https://westin.marriott.com/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  UAH Stats Lab: "https://uahstatslab.github.io/"
 
 ################
 # --- Logo --- #
