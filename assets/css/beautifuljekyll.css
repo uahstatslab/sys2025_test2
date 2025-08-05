@@ -1124,3 +1124,27 @@ pre {
     display: inline-block;
   }
 }
+/* ===== COMPLETELY REMOVE POST FEED ===== */
+#posts, 
+.posts-list, 
+.post-preview, 
+.feed-icon, 
+.blog-pager, 
+.pagination {
+  display: none !important;
+  height: 0 !important;
+  width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Remove related spacing */
+.intro-header {
+  margin-bottom: 0 !important;
+}
+
+/* Optional: Add this if you want to hide the "Posts" header */
+.page-heading {
+  display: none;
+}
