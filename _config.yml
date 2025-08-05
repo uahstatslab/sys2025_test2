@@ -111,6 +111,10 @@ share-links-active:
 
 # Disable the automatic posts feed on homepage
 show_post_feed: false
+# In the "General options" section:
+paginate: 0  # Set to 0 to disable pagination
+feed_show_excerpt: false
+feed_show_tags: false
 
 # Add the website title to the title of every page
 title-on-all-pages: true
