@@ -20,7 +20,11 @@ author: "Webmaster: Kishan Yerubandi | UAH Stats Lab"
 ###############################################
 
 navbar-links:
+  Zoom: "https://www.zoom.com/"
+  Slack: "https://www.slack.com/"
   Hotel: "https://westin.marriott.com/"
+  Venue: "https://www.uah.edu/"
+  YouTube: "https://www.youtube.com/@uahstatslab/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
